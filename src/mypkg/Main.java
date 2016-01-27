@@ -18,8 +18,10 @@ public class Main {
 		System.out.println( "Howdy!  My name is Wayne Pollock." );
 		counter++;
 
-                //yes, I probably have typo's so please ignore k thanks lol O.O
-                System.out.println("Hello! can you hear me? It's me Thomas Schlicher");
+               // Hello statment
+               // changed from what was here before..
+                System.out.println("Hello! its me, Thomas Schlicher;" + 
+                                    " Starbucks coffee + Java = GREATNESS!");
                 counter++;
                 
 		System.out.println( "Number of people who edited this file: "
