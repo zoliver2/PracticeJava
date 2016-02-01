@@ -35,5 +35,9 @@ public class Main {
                 counter++;
                 
 		System.out.println("Number of people who edited this file: " + counter);
+		
+		//This is my hello statement, play on words...
+                System.out.println("Hey there everybody, Zack Oliver is up in the Home repot!!");
+                counter++;
 	}
 }
